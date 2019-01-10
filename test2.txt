@@ -1,3 +1,6 @@
 Add test2.txt
 Update 1
 Update 2
+
+Update in file 2
+One more line in file 2
